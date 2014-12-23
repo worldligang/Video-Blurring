@@ -1,5 +1,8 @@
 Video-Blurring
 ==============
+
+更多iOS技术请关注微信公众账号 iOS开发： iOSDevTip
+
 开始
 
 首先先来这里下载本文的starter工程，并将其解压出来。
